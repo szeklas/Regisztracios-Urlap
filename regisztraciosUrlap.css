@@ -1,0 +1,13 @@
+#formBox{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form{
+    background-image: linear-gradient(to right,rgb(152, 236, 224),rgb(72, 153, 153));
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+}
